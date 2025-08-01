@@ -1,2 +1,3 @@
 title: "Delaney's Portfolio"
-theme: minima
+theme: minima  # ← Critical line!
+url: "https://delaneygarikayi.github.io"
