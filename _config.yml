@@ -1,6 +1,6 @@
 title: "Delaney's Portfolio"
 description: "Web Developer & Designer"
-theme: jekyll-theme-minimal
+theme: minimal
 url: "https://delaneygarikayi.github.io"  # No trailing slash!
 
 # Only include plugins GitHub Pages supports
